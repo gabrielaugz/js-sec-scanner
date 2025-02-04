@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build and cache
+frontend/dist/
+frontend/.vite/
+frontend/.vite-temp/
+frontend/.cache/
+backend/build/
+backend/dist/
+
+# Env files
+backend/.env
+frontend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and debug
+logs
+*.log
+*.out
+*.err
