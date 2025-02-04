@@ -8,4 +8,6 @@
 # Tech
 - Frontend: React.js at moment
 - Backend: JavaScript
-- API: OpenAI 
+- API: OpenAI
+
+# In progress.
