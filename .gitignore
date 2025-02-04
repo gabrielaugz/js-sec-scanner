@@ -16,8 +16,8 @@ backend/build/
 backend/dist/
 
 # Env files
-backend/key.env
-frontend/.env
+.env 
+*.env
 
 # IDE
 .vscode/
