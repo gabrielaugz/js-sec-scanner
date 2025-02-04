@@ -16,7 +16,7 @@ backend/build/
 backend/dist/
 
 # Env files
-backend/.env
+backend/key.env
 frontend/.env
 
 # IDE
